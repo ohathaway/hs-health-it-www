@@ -27,13 +27,13 @@
       <h2 class="text-3xl font-bold text-center mb-8">Why Choose HS Health IT?</h2>
       <div class="grid grid-cols-2 gap-8">
         <div>
-          <p class="text-lg">At HS Health IT, we leverage decades of combined experience to deliver healthcare-focused IT support services.</p>
+          <p class="text-lg">At HS Health IT, we're proud to offer tailored IT solutions to healthcare practices referred through trusted partners. Whether you're a small clinic or a growing practice, we're here to provide expert support without the pressure of upselling. Our focus is on building lasting, reliable relationships—because your success is our success.</p>
         </div>
         <div>
           <ul class="list-disc ml-8">
             <li>Data Security and Compliance</li>
             <li>IT Infrastructure Support</li>
-            <li>24/7 Dedicated IT Support</li>
+            <li>Vendor Management</li>
           </ul>
         </div>
       </div>
@@ -45,15 +45,15 @@
       <div class="grid grid-cols-3 gap-8 container mx-auto">
         <div>
           <h3 class="text-xl font-semibold mb-4">Healthcare IT Infrastructure Support</h3>
-          <p>We ensure your healthcare infrastructure is secure and compliant with industry standards.</p>
+          <p>We ensure your healthcare IT systems are reliable and optimized for performance. From managing network configurations to server maintenance, we handle the technical side so your practice can run smoothly without interruptions.</p>
         </div>
         <div>
           <h3 class="text-xl font-semibold mb-4">Data Security and Compliance</h3>
-          <p>Protect your data with our security protocols tailored to the healthcare industry.</p>
+          <p>Safeguard sensitive patient information with our comprehensive security measures. We help you stay compliant with healthcare regulations like HIPAA, ensuring your data is protected from breaches and vulnerabilities.</p>
         </div>
         <div>
-          <h3 class="text-xl font-semibold mb-4">24/7 IT Support</h3>
-          <p>Our dedicated team is available around the clock to assist with any IT issues.</p>
+          <h3 class="text-xl font-semibold mb-4">Vendor Management</h3>
+          <p>We coordinate with your software and medical device vendors, like EMR systems and medical imaging providers, to make sure everything works as needed. Acting as your point of contact, we help you navigate complex vendor relationships so you can focus on patient care.</p>
         </div>
       </div>
     </section>
