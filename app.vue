@@ -6,8 +6,7 @@
         <h1 class="text-2xl font-bold">HS Health IT</h1>
         <nav>
           <a href="#" class="mx-4 text-gray-600 hover:text-blue-600">Home</a>
-          <a href="#" class="mx-4 text-gray-600 hover:text-blue-600">Services</a>
-          <a href="#" class="mx-4 text-gray-600 hover:text-blue-600">Support</a>
+          <a href="#services" class="mx-4 text-gray-600 hover:text-blue-600">Services</a>
         </nav>
         <a href="https://support.hshealthit.com" class="bg-blue-500 text-white px-4 py-2 rounded-lg">Get Support</a>
       </div>
@@ -16,7 +15,7 @@
     <!-- Hero Section -->
     <section class="bg-blue-50 py-16 text-center">
       <h2 class="text-4xl font-bold mb-4">IT Solutions for Healthcare Professionals</h2>
-      <p class="text-lg mb-8">Empowering healthcare organizations with over 60 years of combined IT experience.</p>
+      <p class="text-lg mb-8">Providing expert IT solutions tailored to healthcare professionals, so you can focus on what matters most—caring for your patients.</p>
       <div class="flex justify-center space-x-4">
         <a href="https://support.hshealthit.com" class="bg-blue-500 text-white px-6 py-3 rounded-lg">Access Support Portal</a>
         <a href="mailto:support@hshealthit.com" class="bg-gray-500 text-white px-6 py-3 rounded-lg">Contact Us</a>
@@ -41,7 +40,7 @@
     </section>
 
     <!-- Services Section -->
-    <section class="bg-gray-100 py-16">
+    <section id="services" class="bg-gray-100 py-16">
       <h2 class="text-3xl font-bold text-center mb-8">Our IT Support Services</h2>
       <div class="grid grid-cols-3 gap-8 container mx-auto">
         <div>
