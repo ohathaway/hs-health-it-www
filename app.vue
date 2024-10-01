@@ -61,7 +61,7 @@
     <!-- Footer Section -->
     <footer class="bg-gray-800 text-white py-8">
       <div class="container mx-auto text-center">
-        <p>Contact us: support@hshealthit.com | (720) 986-7175</p>
+        <p>Contact us: <a href="mailto:support@hshealthit.com">support@hshealthit.com</a> | <a href="tel:+17209867175">720-986-7175</a></p>
         <p>© 2024 HS Health IT</p>
       </div>
     </footer>
