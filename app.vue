@@ -13,7 +13,7 @@
     </header>
 
     <!-- Hero Section -->
-    <section class="bg-blue-50 py-16 text-center">
+    <section class="bg-lightGray py-16 text-center">
       <h2 class="text-4xl font-bold mb-4">IT Solutions for Healthcare Professionals</h2>
       <p class="text-lg mb-8">Providing expert IT solutions tailored to healthcare professionals, so you can focus on what matters most—caring for your patients.</p>
       <div class="flex justify-center space-x-4">
